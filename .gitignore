@@ -1,0 +1,4 @@
+# Project exclude paths
+/api-server/node_modules/
+/client/node_modules/
+/rtmp-server/node_modules/
